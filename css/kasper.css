@@ -1300,7 +1300,7 @@ header .landing .move .left div:nth-child(2) {
 /* End contact  */
 /* Start Footer  */
 footer {
-    background-image: url(../images/footer.jpg.);
+    background-image: url(../images/Footer.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 60vh;
